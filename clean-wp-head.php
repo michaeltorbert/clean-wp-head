@@ -4,7 +4,7 @@ Plugin Name: Clean WP Head
 Plugin URI: http://semperfiwebdesign.com/wordpress-plugins/clean-wp-head/
 Description: Removes extra output in websites header area.
 Author: Michael Torbert
-Version: .2
+Version: .2.1
 Author URI: http://semperfiwebdesign.com/
 */
 
