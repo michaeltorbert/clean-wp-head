@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=mrtor
 Tags: wp_head
 Requires at least: 2.0.2
 Tested up to: 2.8.4
-Stable tag: trunk
+Stable tag: .2.1
 
 Here is a short description of the plugin.  This should be no more than 150 chars.  No markup here.
 
